@@ -1,6 +1,6 @@
 # Topological Photonic Computing: A Comprehensive Formalization
 
-[![DOI](https://img.shields.io/badge/DOI-Pending-blue)](https://zenodo.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18226545.svg)](https://doi.org/10.5281/zenodo.18226545)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0972--606X-green)](https://orcid.org/0009-0003-0972-606X)
 
