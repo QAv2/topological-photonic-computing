@@ -5,7 +5,7 @@
 **Author:** Joseph Vanhorn  
 **ORCID:** [0009-0003-0972-606X](https://orcid.org/0009-0003-0972-606X)  
 **Contact:** contact@qualia-algebra.com  
-**DOI:** [Pending Zenodo Assignment]
+**DOI:** [10.5281/zenodo.18226545](https://doi.org/10.5281/zenodo.18226545)
 
 **Version 2.0 — January 2026**
 
