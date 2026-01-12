@@ -1306,7 +1306,7 @@ What remains is the walk.
 
 **Date:** January 2026
 
-**DOI:** [Pending Zenodo Assignment]
+**DOI:** [10.5281/zenodo.18226545](https://doi.org/10.5281/zenodo.18226545)
 
 **Status:** Theoretical Framework (Pre-Experimental Validation)
 
