@@ -77,7 +77,7 @@ If you use this work, please cite:
   month={January},
   version={2.0},
   note={Theoretical Framework, Pre-Experimental Validation},
-  url={https://github.com/[username]/topological-photonic-computing}
+  url={https://github.com/QAv2/topological-photonic-computing}
 }
 ```
 
