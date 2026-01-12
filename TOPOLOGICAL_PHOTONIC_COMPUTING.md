@@ -695,12 +695,12 @@ A single storage cell comprises:
 │        ╭─────────────────────────────────────╮              │
 │        │      VORTEX STORAGE REGION          │              │
 │        │                                     │              │
-│        │    ┌─────────────────────┐         │              │
-│        │    │   DARK CORE         │         │ Information  │
-│        │    │   (phase singularity)│         │ Storage      │
-│        │    │   l = topological   │         │              │
-│        │    │       charge        │         │              │
-│        │    └─────────────────────┘         │              │
+│        │    ┌─────────────────────┐          │              │
+│        │    │   DARK CORE         │          │ Information  │
+│        │    │  (phase singularity)│          │ Storage      │
+│        │    │   l = topological   │          │              │
+│        │    │       charge        │          │              │
+│        │    └─────────────────────┘          │              │
 │        │                                     │              │
 │        ╰─────────────────────────────────────╯              │
 │                                                             │
@@ -779,9 +779,9 @@ PROBE LASER → POLARIZER → LC CELL → ANALYZER → CAMERA/DETECTOR
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│                     PHOTONIC COMPUTER SYSTEM                      │
+│                     PHOTONIC COMPUTER SYSTEM                     │
 ├──────────────────────────────────────────────────────────────────┤
-│                                                                   │
+│                                                                  │
 │  ┌────────────┐    ┌─────────────────────┐    ┌──────────────┐   │
 │  │   LASER    │    │    PHOTONIC CORE    │    │  ELECTRONIC  │   │
 │  │   MODULE   │───►│                     │───►│  INTERFACE   │   │
@@ -791,18 +791,18 @@ PROBE LASER → POLARIZER → LC CELL → ANALYZER → CAMERA/DETECTOR
 │  │ ● Control  │    │  │ ○ ○ ○ ○ ○ ○ ○ │  │    │ ● I/O        │   │
 │  │            │    │  │ ○ ○ ○ ○ ○ ○ ○ │  │    │              │   │
 │  └────────────┘    │  └───────────────┘  │    └──────────────┘   │
-│       │            │                     │           │            │
-│       │            │  OPTICAL ROUTING    │           │            │
-│       │            │  & TRANSFORMATION   │           │            │
-│       │            └─────────────────────┘           │            │
-│       │                                              │            │
-│       └──────────────────────────────────────────────┘            │
-│                                                                   │
+│       │            │                     │           │           │
+│       │            │  OPTICAL ROUTING    │           │           │
+│       │            │  & TRANSFORMATION   │           │           │
+│       │            └─────────────────────┘           │           │
+│       │                                              │           │
+│       └──────────────────────────────────────────────┘           │
+│                                                                  │
 │  ┌────────────────────────────────────────────────────────────┐  │
-│  │                    POWER MANAGEMENT                         │  │
-│  │                    (Total: ~5W)                             │  │
+│  │                    POWER MANAGEMENT                        │  │
+│  │                    (Total: ~5W)                            │  │
 │  └────────────────────────────────────────────────────────────┘  │
-│                                                                   │
+│                                                                  │
 │  [USB-C] [Thunderbolt] [Fiber Optic] [Power]                     │
 └──────────────────────────────────────────────────────────────────┘
 ```
