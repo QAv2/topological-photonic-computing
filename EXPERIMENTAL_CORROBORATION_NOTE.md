@@ -297,8 +297,6 @@ Walker, B.T. et al. (2018). Driven-dissipative non-equilibrium Bose-Einstein con
 
 *This Technical Note was prepared with AI assistance (Claude, Anthropic) for literature analysis and document organization. The analytical assessment, interpretive claims, and editorial decisions are the author's own.*
 
-*"The hole remains the data."*
-
 ---
 
 **END OF DOCUMENT**
