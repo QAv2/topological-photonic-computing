@@ -57,6 +57,14 @@ Goethe (1810) → Steiner (1919) → Larson (1959) → Peret (2015) → Vijaya (
 
 ---
 
+## Companion: Experimental Corroboration Note (April 2026)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19432117.svg)](https://doi.org/10.5281/zenodo.19432117)
+
+In March 2026, Bucher et al. published in *Nature* the first direct experimental measurement of optical phase singularity dynamics. Their findings—topological charge conservation, non-particulate confirmation via superluminal velocities, and amplification in slow-light confining media—are consistent with several foundational claims of this framework. See [EXPERIMENTAL_CORROBORATION_NOTE.md](EXPERIMENTAL_CORROBORATION_NOTE.md) for the full analysis.
+
+---
+
 ## Status
 
 **Theoretical Framework (Pre-Experimental Validation)**

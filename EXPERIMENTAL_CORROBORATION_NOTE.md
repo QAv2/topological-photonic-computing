@@ -6,6 +6,8 @@
 **ORCID:** [0009-0003-0972-606X](https://orcid.org/0009-0003-0972-606X)
 **Contact:** contact@qualia-algebra.com
 
+**DOI:** [10.5281/zenodo.19432117](https://doi.org/10.5281/zenodo.19432117)
+
 **Date:** April 2026
 
 **Companion to:** Vanhorn, J. (2026). *Topological Photonic Computing: A Comprehensive Formalization.* Version 2.0. Zenodo. DOI: [10.5281/zenodo.18226545](https://doi.org/10.5281/zenodo.18226545)
@@ -270,6 +272,8 @@ Walker, B.T. et al. (2018). Driven-dissipative non-equilibrium Bose-Einstein con
 # DOCUMENT METADATA
 
 **Title:** Topological Photonic Computing: Independent Experimental Corroboration from Bucher et al. (Nature, 2026)
+
+**DOI:** [10.5281/zenodo.19432117](https://doi.org/10.5281/zenodo.19432117)
 
 **Type:** Technical Note
 
